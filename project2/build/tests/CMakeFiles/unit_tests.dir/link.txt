@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/unit_tests.dir/main.cpp.o  -o unit_tests  ../src/my_lib/liblib.a ../_deps/fmt-build/libfmt.a ../_deps/spdlog-build/libspdlog.a -lpthread 

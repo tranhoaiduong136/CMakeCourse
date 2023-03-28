@@ -1,0 +1,17 @@
+digraph "GG" {
+node [
+  fontsize = "12"
+];
+    "node33" [ label="main" shape="house"];
+    "node30" [ label="lib" shape="diamond"];
+    "node33" -> "node30" // main -> lib
+    "node16" [ label="cxxopts" shape="box"];
+    "node30" -> "node16" // lib -> cxxopts
+    "node9" [ label="fmt" shape="diamond"];
+    "node30" -> "node9" // lib -> fmt
+    "node5" [ label="nlohmann_json" shape="box"];
+    "node30" -> "node5" // lib -> nlohmann_json
+    "node13" [ label="spdlog" shape="diamond"];
+    "node30" -> "node13" // lib -> spdlog
+    "node33" -> "node5" // main -> nlohmann_json
+}

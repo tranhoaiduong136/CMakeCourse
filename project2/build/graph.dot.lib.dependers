@@ -1,0 +1,10 @@
+digraph "GG" {
+node [
+  fontsize = "12"
+];
+    "node30" [ label="lib" shape="diamond"];
+    "node33" [ label="main" shape="house"];
+    "node33" -> "node30" // lib -> main
+    "node36" [ label="unit_tests" shape="house"];
+    "node36" -> "node30" // lib -> unit_tests
+}

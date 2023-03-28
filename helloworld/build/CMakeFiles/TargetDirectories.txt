@@ -1,0 +1,3 @@
+/home/duong/Desktop/CMakeCourse/MyCmakefile/helloworld/build/CMakeFiles/rebuild_cache.dir
+/home/duong/Desktop/CMakeCourse/MyCmakefile/helloworld/build/CMakeFiles/edit_cache.dir
+/home/duong/Desktop/CMakeCourse/MyCmakefile/helloworld/build/CMakeFiles/runhello.dir

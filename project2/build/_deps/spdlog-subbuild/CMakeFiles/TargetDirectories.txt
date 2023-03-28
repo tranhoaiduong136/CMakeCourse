@@ -1,0 +1,3 @@
+/home/duong/Desktop/CMakeCourse/Learning/project2/build/_deps/spdlog-subbuild/CMakeFiles/rebuild_cache.dir
+/home/duong/Desktop/CMakeCourse/Learning/project2/build/_deps/spdlog-subbuild/CMakeFiles/edit_cache.dir
+/home/duong/Desktop/CMakeCourse/Learning/project2/build/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate.dir
